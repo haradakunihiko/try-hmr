@@ -16,7 +16,7 @@ npm start
 
 2. See it changes without rerender.
 
-3. Check you request (maybe in network tabs with Chrome ). You will see a GET request like '0.ebb160dc6080e1a29cd9.hot-update.js'.
+3. Check request from your browser (maybe in network tab with Chrome ). You will see a GET request like '0.ebb160dc6080e1a29cd9.hot-update.js'.
 This is the updating module.
 
 4. Check console log to see what's happening.
